@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lesson_2_ChatWithSQL/ClientServerCommand/ClientServerCommand.iml" filepath="$PROJECT_DIR$/Lesson_2_ChatWithSQL/ClientServerCommand/ClientServerCommand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_2_ChatWithSQL/Lesson_2_ChatWithSQL.iml" filepath="$PROJECT_DIR$/Lesson_2_ChatWithSQL/Lesson_2_ChatWithSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_2_ChatWithSQL/NetworkClient/NetworkClient.iml" filepath="$PROJECT_DIR$/Lesson_2_ChatWithSQL/NetworkClient/NetworkClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_2_ChatWithSQL/NetworkServer/NetworkServer.iml" filepath="$PROJECT_DIR$/Lesson_2_ChatWithSQL/NetworkServer/NetworkServer.iml" />
+    </modules>
+  </component>
+</project>
